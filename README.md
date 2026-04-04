@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**RADIKA-KUMARI/radika-kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Radhika 👋
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer  
+📍 Bangalore, India  
+🎯 Goal: Software Engineer Role  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+- Languages: C, Python, JavaScript  
+- Web: HTML, CSS  
+- Tools: Git, GitHub, VS Code  
+
+📌 Projects
+- 🎮 Rock Paper Scissors Game  
+- 🛒 Shopping Cart System  
+- ⏱ Timer Clock App  
+- ❓ Quiz Game  
+
+📫 Contact Me
+📧 radhikajk890@gmail.com
