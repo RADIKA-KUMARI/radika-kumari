@@ -12,7 +12,6 @@ Hi, I'm Radhika 👋
 - Tools: Git, GitHub, VS Code  
 
 📌 Projects
-- 🎮 Rock Paper Scissors Game  
 - 🛒 Shopping Cart System  
 - ⏱ Timer Clock App  
 - ❓ Quiz Game  
