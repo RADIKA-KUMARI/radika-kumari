@@ -21,9 +21,21 @@ I’m a Python-focused developer building practical CLI-based applications and i
 - Tools: Git, GitHub, VS Code  
 
 📌 Projects
-- 🛒 Shopping Cart System : Item management & total price calculation
-- ⏱ Timer Clock App : Simple timer & total price  
-- ❓ Python Quiz Game : CLI-based quiz system with score tracking
+🔹 Shopping Cart System (Python, CLI)
+- Add/remove items, dynamic price calculation
+- Implemented loops, conditionals, and modular functions
+- Handles user input validation
+🔗 GitHub Repo: 
+
+🔹 Timer Clock App (Python)
+- Countdown timer with real-time updates
+- Built using time module and loops
+🔗 GitHub Repo: 
+
+🔹 Python Quiz Game (CLI)
+- Multiple-choice quiz with score tracking
+- Structured using functions and lists
+🔗 GitHub Repo: 
 
 📈 Currently Learning
 - Python advanced concepts
@@ -34,4 +46,4 @@ I’m a Python-focused developer building practical CLI-based applications and i
 
 📧 radhikajk890@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/radika-kumari
+🔗 LinkedIn: https://www.linkedin.com/in/radika-kumari
