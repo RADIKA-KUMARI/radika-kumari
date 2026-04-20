@@ -25,12 +25,12 @@ I’m a Python-focused developer building practical CLI-based applications and i
 - Add/remove items, dynamic price calculation
 - Implemented loops, conditionals, and modular functions
 - Handles user input validation
-🔗 GitHub Repo: 
+- 🔗 GitHub Repo: https://github.com/RADIKA-KUMARI/shopping-cart.git
 
 🔹 Timer Clock App (Python)
 - Countdown timer with real-time updates
 - Built using time module and loops
-🔗 GitHub Repo: 
+- 🔗 GitHub Repo: https://github.com/RADIKA-KUMARI/timer-clock.git
 
 🔹 Python Quiz Game (CLI)
 - Multiple-choice quiz with score tracking
