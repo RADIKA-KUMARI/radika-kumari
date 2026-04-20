@@ -35,7 +35,7 @@ I’m a Python-focused developer building practical CLI-based applications and i
 🔹 Python Quiz Game (CLI)
 - Multiple-choice quiz with score tracking
 - Structured using functions and lists
-🔗 GitHub Repo: 
+🔗 GitHub Repo: https://github.com/RADIKA-KUMARI/Quiz-game.git
 
 📈 Currently Learning
 - Python advanced concepts
