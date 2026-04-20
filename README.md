@@ -1,11 +1,12 @@
 Hi there 👋
 
 Hi, I'm Radhika 👋
+
 I’m a Python-focused developer building practical CLI-based applications and improving problem-solving skills.
 🔍 Currently focusing on:
-Writing clean Python code
-Building real-world projects (CLI tools, automation)
-Strengthening data structures & logic
+- Writing clean Python code
+- real-world projects (CLI tools, automation)
+- Strengthening data structures & logic
 💻 Python Developer | Building CLI Tools and Real-World Projects
 📍 Bangalore, India  
 🎯 Goal: Software Engineer Role  
