@@ -1,49 +1,70 @@
-Hi there 👋
+Hi, I'm Radika 👋
 
-Hi, I'm Radhika 👋
+I'm an aspiring Java Full Stack Developer passionate about building practical applications and continuously improving my problem-solving skills. I enjoy developing projects, learning modern web technologies, and strengthening my understanding of backend development.
 
-I’m a Python-focused developer building practical CLI-based applications and improving problem-solving skills.
+🔍 Currently Focusing On
 
-🔍 Currently focusing on:
-- Writing clean Python code
-- real-world projects (CLI tools, automation)
-- Strengthening data structures & logic
-  
-💻 Python Developer | Building CLI Tools and Real-World Projects
+Core Java and Object-Oriented Programming (OOP)
+Data Structures & Algorithms
+Full Stack Development (HTML, CSS, JavaScript, SQL)
+Spring Boot and REST APIs
+Building real-world projects with Java
 
-📍 Bangalore, India  
+💻 Aspiring Java Full Stack Developer | Building Real-World Applications
 
-🎯 Goal: Software Engineer Role  
+📍 Bangalore, India
+
+🎯 Goal: Software Engineer (Java Full Stack Developer)
 
 🚀 Skills
-- Languages: C, Python, JavaScript  
-- Web: HTML, CSS  
-- Tools: Git, GitHub, VS Code  
+
+Languages:Java, Python, C, JavaScript
+
+Web Technologies: HTML, CSS
+
+Database: SQL (Learning)
+
+Frameworks: Spring Boot (Learning)
+
+Tools: Git, GitHub, VS Code, Eclipse IDE
 
 📌 Projects
+
 🔹 Shopping Cart System (Python, CLI)
-- Add/remove items, dynamic price calculation
-- Implemented loops, conditionals, and modular functions
-- Handles user input validation
-- 🔗 GitHub Repo: https://github.com/RADIKA-KUMARI/shopping-cart.git
+
+Add and remove items with dynamic price calculation
+Implemented loops, conditionals, and modular functions
+Includes user input validation
+
+🔗 GitHub Repo: <PRIVATE_URL>
 
 🔹 Timer Clock App (Python)
-- Countdown timer with real-time updates
-- Built using time module and loops
-- 🔗 GitHub Repo: https://github.com/RADIKA-KUMARI/timer-clock.git
+
+Countdown timer with real-time updates
+Built using Python's `time` module and loops
+
+🔗 GitHub Repo: <PRIVATE_URL>
 
 🔹 Python Quiz Game (CLI)
-- Multiple-choice quiz with score tracking
-- Structured using functions and lists
-🔗 GitHub Repo: https://github.com/RADIKA-KUMARI/Quiz-game.git
+
+Multiple-choice quiz with score tracking
+Built using functions, lists, and modular programming
+
+🔗 GitHub Repo: <PRIVATE_URL>
 
 📈 Currently Learning
-- Python advanced concepts
-- APIs & JSON handling
-- Backend basics
-  
+
+Core Java & Advanced Java
+Spring Boot
+REST APIs
+SQL & Database Design
+Backend Development
+Full Stack Development
+
 📫 Contact Me
 
-📧 radhikajk890@gmail.com
+📧 Email:radhikajk890@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/radika-kumari
+🔗 LinkedIn: https://www.linkedin.com/in/radhika-kumari
+
+🔗 GitHub: https://github.com/RADIKA-KUMARI
